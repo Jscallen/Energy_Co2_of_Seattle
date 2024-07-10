@@ -1,0 +1,5 @@
+{
+  "appService.showBuildDuringDeployPrompt": false,
+  "appService.defaultWebAppToDeploy": "/subscriptions/c871724e-63cc-4605-a668-5a6a1b5a925b/resourceGroups/momo_alou_ryan_js/providers/Microsoft.Web/sites/predictionelec",
+  "appService.deploySubpath": "."
+}
